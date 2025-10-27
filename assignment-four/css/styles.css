@@ -1,0 +1,69 @@
+body{
+    
+    background-color:azure
+    
+}
+
+.type1{
+    font-family: "Exo", sans-serif;
+    text-align: center;
+    font-size: 4em;
+}
+
+.type2{
+    font-family: "Caprasimo", serif;
+    text-align: center;
+    font-size: 2em;
+    font-weight: 600;
+    letter-spacing: 5px;
+    line-height: 1.5;
+    
+}
+
+.type3{
+    font-family: "Sedan SC", serif;
+    text-align: center;
+    font-size: 2em;
+}
+
+.type4{
+    font-family: "Winky Rough", sans-serif;
+    text-align: center;
+    font-size: 2em;
+}
+
+.type5{
+    font-family: "Oswald", sans-serif;
+    text-align: center;
+    font-size: 2em;
+}
+
+.type6{
+    font-family: "DM Serif Display", serif;
+    text-align: center;
+    font-size: 2em;
+}
+
+.type7{
+    font-family: "Philosopher", sans-serif;
+    text-align: center;
+    font-size: 2em;
+}
+
+.type8{
+    font-family: "BBH Sans Bartle", sans-serif;
+    text-align: center;
+    font-size: 2em;
+}
+
+.type9{
+    font-family: "Plaster", system-ui;
+    text-align: center;
+    font-size: 2em;
+}
+
+.type10{
+    font-family: "Exo", sans-serif;
+    text-align: center;
+    font-size: 2em;
+}
