@@ -1,0 +1,40 @@
+.big-yellow {background-color: yellow;
+    width: 450px;
+    border-radius: 10px;
+    border: 5px solid red;
+}
+.outer-box {
+    width: 400px;
+    background-color: green;
+    border: 5px solid red;
+    border-radius: 10px;
+    margin: 40px 20px 20px
+}
+.box-one {
+    width: 100px;
+    height: 100px;
+    background-color: azure;
+    border-radius: 10px;
+    margin: 20px 150px 20px;
+}
+.box-two {
+    width: 150px;
+    height: 200px;
+    background-color: rebeccapurple;
+    border-radius: 10px;
+    margin: 10px 15px 20px;
+}
+.box-three {
+    width: 150px;
+    height: 50px;
+    background-color: gold;
+    border-radius: 10px;
+    margin: 20px 150px 20px;
+}
+.box-four {
+    width: 150px;
+    height: 200px;
+    background-color: red;
+    border-radius: 8px;
+    margin: 20px;
+}
