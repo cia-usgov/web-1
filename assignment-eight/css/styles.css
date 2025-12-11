@@ -1,0 +1,210 @@
+/*Navy Blue Color is #0d2543 */
+* {
+    padding: 0;
+    margin: 0;
+}
+html{
+    font-family: Bodoni Moda, serif;
+}
+.top-bar {
+    background-color: white;
+    padding: 4px 16px;
+    height: 50px;
+    margin: 20px 0
+}
+
+.logo {
+    width: 150px;
+    height: 30px;
+    object-fit: contain;
+}
+
+nav {
+    float: right;
+    padding: 7px 0;
+}
+
+nav a{
+    text-decoration: none;
+    color: #0d2543;
+    padding: 5px;
+}
+header {
+    font-family: Times, serif;
+    float: center;
+    margin: auto;
+    width: 780px;
+    height: 284px;
+    
+    color: white;
+    background-image: url(../images/banner-img.jpg);
+    background-size: 780px 234px;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    
+    background-color: #0d2543;
+    
+    text-align: center;
+}
+h1 {
+    padding-top: 100px;
+    font-size: 2.5em;
+}
+h2{
+    background-color: #0d2543;
+    margin: 2px 325px;
+    font-size: 1.2em;
+    padding: 8px 12px
+}
+/*Welcome Section*/
+.welcome {
+    margin: 20px 10%;
+    text-align: center;
+    align-content: center;
+}
+h3{
+    font-size: 2em;
+    color: #0d2543;
+}
+.welcome-break{
+    width: 250px;
+    margin: auto;
+}
+.welcome p {
+    font-size: 0.8em;
+    margin-top: 10px;
+}
+.welcome-button{
+    width: 250px;
+    margin: auto;
+}
+.welcome-left{
+    float: left;
+    background-color: #0d2543;
+    color: white;
+    border: solid;
+    border-color: #0d2543;
+    padding: 8px 12px;
+    font-size: .8em;
+}
+.welcome-right{
+    float: right;
+    border: solid;
+    border-color: #0d2543;
+    padding: 8px 12px;
+    font-size: .8em;
+    color: #0d2543;
+}
+.post-welcome {
+    width: 80%;
+    margin: 40px auto;
+}
+main {
+    margin: 0 10%;
+}
+main h4{
+    font-size: 1.4em;
+    color: #0d2543;
+}
+main p{
+    margin-top: 8px;
+    font-size: 0.7em;
+}
+.first{
+    margin-bottom: 60px;
+    text-align: right;
+    height: 200px 
+}
+.first img{
+    width: 60%;
+    height: 200px;
+    float: left;
+    object-fit: contain;
+    margin-right: 20px;
+    
+}
+.first hr{
+    width: 100px;
+    float: right;
+}
+.second{
+    margin-bottom: 40px;
+    text-align: left;
+    height: 200px
+}
+.second div{
+    width: 35%;
+    float: left;
+}
+.second img{
+    width: 60%;
+    height: 200px;
+    float: right;
+    object-fit: contain;
+    margin-left: 20px;
+}
+.second hr{
+    width: 100px;
+    float: left;
+}
+.third{
+    margin-bottom: 60px;
+    text-align: right;
+    height: 200px 
+}
+.third img{
+    width: 60%;
+    height: 200px;
+    float: left;
+    object-fit: contain;
+    margin-right: 20px;
+}
+.third hr{
+    width: 100px;
+    float: right;
+}
+.fourth{
+    margin-bottom: 40px;
+    text-align: left;
+    height: 200px
+}
+.fourth div{
+    width: 35%;
+    float: left;
+}
+.fourth img{
+    width: 60%;
+    height: 200px;
+    float: right;
+    object-fit: contain;
+    margin-left: 20px;
+}
+.fourth hr{
+    width: 100px;
+    float: left;
+}
+footer{
+    background-color: #f4f4f4;
+    padding: 30px 30px 5px 30px;
+    height: 150px
+}
+.foot-left{
+    float: left;
+}
+.foot-right{
+    float: right;
+    text-align: right;
+}
+.foot-right p{
+    margin-bottom: 20px;
+}
+footer p{
+    font-size: .7em;
+}
+.copyright{
+    float: center;
+    margin-top: 125px;
+    text-align: center;
+}
+
+
